@@ -37,7 +37,7 @@ This project's architecture revolves around the Raspberry Pi Pico W as the micro
 2. **LCD screen 1602 module**: used for displaying the actual game
 3. **LED**: shows when the console is on or off
 4. **Buttons**: one for velocity and one for up and down
-5.**Breadboard**: needed for building and testing the circuit
+5. **Breadboard**: needed for building and testing the circuit
 6. **Jumper wires**: needed for connecting the components
 
 In this project, Raspberry Pi Pico W runs the game code, while the LCD screen 1602 module displays the game. An LED indicates power status, and buttons control velocity and movement. A breadboard and jumper wires connect the components for testing and construction.
